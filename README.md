@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Grimm! (Or Linkfandos)
 - 👀 I’m interested in modding, writing...
-- 🌱 I’m currently learning python and other stuff outside this.
-- 📫 How to reach me linkfandosyt on Discord.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a minor. And i'm Belgian.
+- 🌱 I’m currently learning python HTML, CSS and some other stuff.
+- 📫 How to reach me: linkfandos on Discord.
+- ♂️ Pronouns: He/Him
+- ⚡ Fun fact: I'm a minor. And i'm Belgian. And I'm Gay. And other stuff.
 
 <!---
 LinkfandosVF/LinkfandosVF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
