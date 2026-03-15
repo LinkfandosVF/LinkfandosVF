@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python HTML, CSS, JS, Godot and some other stuff.
 - 📫 How to reach me: linkfandos on Discord.
 - ♂️ Pronouns: He/Him
-- ⚡ Fun fact: i'm Belgian. And I'm Gay. And other stuff, I guess.
+- ⚡ Fun fact: i'm French. And I'm Gay. And other stuff, I guess.
 
 <!---
 LinkfandosVF/LinkfandosVF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
